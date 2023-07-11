@@ -1,6 +1,6 @@
  # Hello! I'm Gustavo Caxilé
 
-💻 I'm Back-End Developer!
+💻 I'm Software Engineer!
 <br>
 🏙️ I live in São Paulo, Brazil
 <br>
