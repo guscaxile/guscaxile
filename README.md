@@ -7,8 +7,8 @@
 🎓 I have a degree in systems analysis and development, at São Paulo Tech School(SPTECH)
 
 ## About me!
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guscaxile)](https://github.com/guscaxile)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-caxil%C3%A9-76b667149/)]( https://www.linkedin.com/in/gustavo-caxil%C3%A9-76b667149/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/guscaxile/)](https://www.instagram.com/guscaxile/)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-caxil%C3%A9-76b667149/)](https://www.linkedin.com/in/gustavo-caxil%C3%A9-76b667149/)
 
 ## Some stats and Tools!
 <div>
