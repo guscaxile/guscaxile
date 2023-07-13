@@ -6,7 +6,7 @@
 <br>
 🎓 I have a degree in systems analysis and development, at São Paulo Tech School(SPTECH)
 
-## About me!
+## Contact me!
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/guscaxile/)](https://www.instagram.com/guscaxile/)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-caxil%C3%A9-76b667149/)](https://www.linkedin.com/in/gustavo-caxil%C3%A9-76b667149/)
 
