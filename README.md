@@ -40,7 +40,7 @@
  <a href = "mailto:gustavo.acaxile@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
  </a>
- <a href = "mailto:gustavocaxile@gmail.com">
+ <a href = "mailto:gustavocaxile@outlook.com">
   <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" target="_blank">
  </a>
    
