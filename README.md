@@ -4,7 +4,7 @@
 <br>
 🏙️ I live in São Paulo, Brazil. 
 <br>
-🎓 I have a degree in systems analysis and development, at São Paulo Tech School(SPTECH).
+🎓 I have a degree in systems analysis and development, at São Paulo Tech School(SPTECH). 
 
 ## Some stats!
 <div align="center">
