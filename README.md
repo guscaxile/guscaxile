@@ -6,26 +6,11 @@
 <br>
 🎓 I have a degree in systems analysis and development, at São Paulo Tech School(SPTECH). 
 
-## Some stats!
-<div align="center">
-  <a href="https://github.com/guscaxile">
-  <img height="180em"   align="center" src="https://github-readme-stats.vercel.app/api?username=guscaxile&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guscaxile&layout=compact&langs_count=16&theme=react" />
-</div>
- 
-<br>
+## Most used languages!
+[![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=guscaxile&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)
 
-## Languages, frameworks and databases! 
-<div align="center" > 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
-</div>
+
+<br>
 
 ## Contact me!
 
