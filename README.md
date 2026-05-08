@@ -1,6 +1,6 @@
  # Hello! I'm Gustavo Caxilé. 
 
-💻 I'm Software Engineer. 
+💻 I'm a Software Engineer. 
 <br>
 🏙️ I live in São Paulo, Brazil. 
 <br>
