@@ -20,8 +20,19 @@
 - **[agendamento-notificacao-api](https://github.com/guscaxile/agendamento-notificacao-api)** – Notification scheduling service with asynchronous delivery.
 
 ## 📊 GitHub Stats
-[![Top Langs](https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=guscaxile&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight)](https://github.com/ahmadjoya/github-readme-stats)
-![GitHub Streak](https://streak-stats.demolab.com/?user=guscaxile&theme=tokyonight)
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/ahmadjoya/github-readme-stats">
+        <img src="https://github-readme-stats-rust-three.vercel.app/api/top-langs/?username=guscaxile&hide=Rich%20Text&langs_count=20&layout=compact&theme=tokyonight" alt="Top Langs" />
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com/?user=guscaxile&theme=tokyonight" alt="GitHub Streak" />
+     </td>
+  </tr>
+</table>
 
 ![Stars](https://img.shields.io/github/stars/guscaxile?style=social)
 ![Visitor Count](https://komarev.com/ghpvc/?username=guscaxile&color=blueviolet&style=flat-square)
