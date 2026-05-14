@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Gustavo Caxilé.
 
 💻 Software Engineer | 🏙️ São Paulo, Brazil  
-🎓 Systems Analysis and Development @ São Paulo Tech School (SPTECH)
+🎓 Systems Analysis and Development @São Paulo Tech School (SPTECH)
 
 ## 🚀 Tech Stack
 
